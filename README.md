@@ -12,3 +12,6 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 </p>
 <h3 align="center">BeckEnd</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring Data JPA&logoColor=white">
+</p>
