@@ -1,5 +1,5 @@
 
-<h1>Hello World!<h1>
+<h1>Hello World!</h1>
   <p>Welcome to my repository! i'm conda-12 and junior beckend developer. </p>
 <h2 align="center">My TechStack</h2>
 <p align="center">
