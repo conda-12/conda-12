@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 	<img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-	<img src="https://img.shields.io/badge/SPRING DATA JPA-2F3134?style=for-the-badge&logo=data%3Aimage%2Fsvg%3Bbase64%2CPHN2ZyBoZWlnaHQ9IjMwMHB0IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMHB0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4%3D&logoColor=white">
+	<img src="https://img.shields.io/badge/SPRING DATA JPA-6DB33F?style=for-the-badge&logo=data:image/svg;base64,PHN2ZyBoZWlnaHQ9IjMwMHB0IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMHB0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=&logoColor=white">
 	<img src="https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
