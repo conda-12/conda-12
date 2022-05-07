@@ -1,7 +1,7 @@
 
 <h1>Hello World!</h1>
 <p><b>Welcome to my repository! I'm conda-12 and junior BeckEnd Developer. 😃</b></p>
-<h2 align="center">My TechStack 💪</h2>
+<h2 align="center">💪 My TechStack 💪</h2>
 <p align="center">
   <b>FrontEnd</b> </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
