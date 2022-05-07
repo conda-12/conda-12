@@ -1,6 +1,6 @@
 
 <h1>Hello World! 🌏</h1>
-<p><b>Welcome to my <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"> I'm conda-12 and junior BeckEnd Developer. 😃</b></p>
+<p><b>Welcome to my github I'm conda-12 and junior BeckEnd Developer. 😃</b></p>
 <h2 align="center">💪 My TechStack 💪</h2>
 <h3 align="center">FrontEnd</h3>
 <p align="center">
