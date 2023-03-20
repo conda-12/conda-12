@@ -7,7 +7,6 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 	<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-	<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white">
 	<img src="https://img.shields.io/badge/JSP-FF7800?style=for-the-badge&logo=JAVA&logoColor=white">
 	<img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 </p>
