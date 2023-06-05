@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">BeckEnd</h3>
 <p align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)	
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
