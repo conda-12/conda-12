@@ -11,7 +11,7 @@
 	<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 	<img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=lat-square&logo=Thymeleaf&logoColor=white"/>
 </p>
-<h3 align="center">BeckEnd</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
