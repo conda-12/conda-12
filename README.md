@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 	<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 	<img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
-	<img src="https://img.shields.io/badge/ELIXIR-#4B275F?style=flat-square&logo=Elixir&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Elixir-#4B275F?style=flat-square&logo=Elixir&logoColor=white"/>
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
