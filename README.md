@@ -13,8 +13,6 @@
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
-	<img src="https://img.shields.io/static/v1?label=&message=Elixir&color=4B32C3&style=for-the-badge&logo=data:image/svg%2Bxml;charset=utf-8,%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EElixir%3C%2Ftitle%3E%3Cpath%20d%3D%22M19.793%2016.575c0%203.752-2.927%207.426-7.743%207.426-5.249%200-7.843-3.71-7.843-8.29%200-5.21%203.892-12.952%208-15.647a.397.397%200%200%201%20.61.371%209.716%209.716%200%200%200%201.694%206.518c.522.795%201.092%201.478%201.763%202.352.94%201.227%201.637%201.906%202.644%203.842l.015.028a7.107%207.107%200%200%201%20.86%203.4z%22%2F%3E%3C%2Fsvg%3E" />
-
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
